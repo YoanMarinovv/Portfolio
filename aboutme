@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:rgb(173, 74, 74);"></body>
+<head>
+    <title> About Me HTML Page</title>
+</head>
+<body>
+    <h1>About Me!</h1>
+    <p>My name is Yoan Marinov and i love playing video games, going outside with my friends, watching movies and listening to music.<p>
+    <img src="C:\Users\yoanm\OneDrive\Documents\Portfolio\images\thumbs up.png"
+    height="200" width="200"
+</body>
+</html>
